@@ -9,7 +9,7 @@
         $status2 = False;
         $status3 = False; 
         $fehler = False;
-        $counter;
+        $counter = 0;
   ?>
   </head>
   <body>
@@ -48,8 +48,7 @@
             answer(check3($Zahl3), 3);
           }
           if(!$fehler) {
-            $counter = counter(checkstates($status1, $status2, $status3), $counter);
-            
+
           }
 
         }
