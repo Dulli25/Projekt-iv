@@ -1,0 +1,698 @@
+01.12.2021 - 14:46 Zahl 1 ist  
+01.12.2021 - 14:46 Zahl 2 ist  
+01.12.2021 - 14:46 Zahl 3 ist  
+01.12.2021 - 14:46 Zahl 1 ist  
+01.12.2021 - 14:46 Zahl 2 ist 8 
+01.12.2021 - 14:46 Zahl 3 ist 7 
+01.12.2021 - 14:46 Zahl 1 ist 1 
+01.12.2021 - 14:46 Zahl 2 ist 2 
+01.12.2021 - 14:46 Zahl 3 ist 3 
+01.12.2021 - 14:48 Zahl 1 ist 1 
+01.12.2021 - 14:48 Zahl 2 ist 8 
+01.12.2021 - 14:48 Zahl 3 ist 7 
+01.12.2021 - 14:48 Code Zahl 1 gelesene: 1
+ 
+01.12.2021 - 14:49 Zahl 1 ist 1 
+01.12.2021 - 14:49 Zahl 2 ist 2 
+01.12.2021 - 14:49 Zahl 3 ist 3 
+01.12.2021 - 14:49 Code Zahl 1 gelesene: 1
+ 
+01.12.2021 - 14:50 Zahl 1 ist 1 
+01.12.2021 - 14:50 Zahl 2 ist 2 
+01.12.2021 - 14:50 Zahl 3 ist 3 
+01.12.2021 - 14:50 Code Zahl 1 gelesene: 1
+ 
+01.12.2021 - 14:50 Zahl 1 ist 1 
+01.12.2021 - 14:50 Zahl 2 ist 2 
+01.12.2021 - 14:50 Zahl 3 ist 3 
+01.12.2021 - 14:50 Code Zahl 1 gelesene: 1
+ 
+01.12.2021 - 14:53 Zahl 1 ist 1| 
+01.12.2021 - 14:53 Zahl 2 ist 2| 
+01.12.2021 - 14:53 Zahl 3 ist 3| 
+01.12.2021 - 14:53 Code Zahl 1 gelesen: 1
+| 
+01.12.2021 - 14:54 Zahl 1 ist 1 0000 
+01.12.2021 - 14:54 Zahl 2 ist 2 0000 
+01.12.2021 - 14:54 Zahl 3 ist 3 0000 
+01.12.2021 - 14:54 Code Zahl 1 gelesen: 1
+ 0000 
+01.12.2021 - 14:55 Zahl 1 ist 3 0000 
+01.12.2021 - 14:55 Zahl 2 ist 21 0000 
+01.12.2021 - 14:55 Zahl 3 ist 1 0000 
+01.12.2021 - 14:55 Code Zahl 1 gelesen: 1
+ 0000 
+01.12.2021 - 14:55 Zahl 1 ist 3 0000 
+01.12.2021 - 14:55 Zahl 2 ist 21 0000 
+01.12.2021 - 14:55 Zahl 3 ist 1 0000 
+01.12.2021 - 14:55 Code Zahl 1 gelesen: 1
+ 0000 
+01.12.2021 - 14:55 Zahl 1 ist 3 0000 
+01.12.2021 - 14:55 Zahl 2 ist 2 0000 
+01.12.2021 - 14:55 Zahl 3 ist 1 0000 
+01.12.2021 - 14:55 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 14:13 Zahl 1 ist  0000 
+02.12.2021 - 14:13 Zahl 2 ist  0000 
+02.12.2021 - 14:13 Zahl 3 ist  0000 
+02.12.2021 - 14:13 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 14:42 Zahl 1 ist  0000 
+02.12.2021 - 14:42 Zahl 2 ist  0000 
+02.12.2021 - 14:42 Zahl 3 ist  0000 
+02.12.2021 - 14:42 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 14:42 Zahl 1 ist 1 0000 
+02.12.2021 - 14:42 Zahl 2 ist  0000 
+02.12.2021 - 14:42 Zahl 3 ist  0000 
+02.12.2021 - 14:42 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 14:42 Eingegeben Zahl 1 ensptricht code 0000 
+02.12.2021 - 14:42 Zahl 1 ist 1 0000 
+02.12.2021 - 14:42 Zahl 2 ist  0000 
+02.12.2021 - 14:42 Zahl 3 ist  0000 
+02.12.2021 - 14:42 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 14:42 Eingegeben Zahl 1 ensptricht code 0000 
+02.12.2021 - 14:44 Zahl 1 ist 1 0000 
+02.12.2021 - 14:44 Zahl 2 ist 23 0000 
+02.12.2021 - 14:44 Zahl 3 ist 7 0000 
+02.12.2021 - 14:44 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 14:44 Eingegeben Zahl 1 ensptricht code 0000 
+02.12.2021 - 14:46 Zahl 1 ist 1 0000 
+02.12.2021 - 14:46 Zahl 2 ist 1 0000 
+02.12.2021 - 14:46 Zahl 3 ist 7 0000 
+02.12.2021 - 14:46 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 14:46 Eingegeben Zahl 1 ensptricht code 0000 
+02.12.2021 - 14:46 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 14:46 Eingegeben Zahl 1 ensptricht code 0000 
+02.12.2021 - 14:46 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 14:47 Zahl 1 ist 1 0000 
+02.12.2021 - 14:47 Zahl 2 ist 23 0000 
+02.12.2021 - 14:47 Zahl 3 ist 7 0000 
+02.12.2021 - 14:47 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 14:47 Eingegeben Zahl 1 ensptricht code 0000 
+02.12.2021 - 14:47 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 14:47 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 14:47 Eingegeben Zahl 3 ensptricht code 0000 
+02.12.2021 - 14:47 Zahl 1 ist 1 0000 
+02.12.2021 - 14:47 Zahl 2 ist 23 0000 
+02.12.2021 - 14:47 Zahl 3 ist 7 0000 
+02.12.2021 - 14:47 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 14:47 Eingegeben Zahl 1 ensptricht code 0000 
+02.12.2021 - 14:47 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 14:47 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 14:47 Eingegeben Zahl 3 ensptricht code 0000 
+02.12.2021 - 14:47 Zahl 1 ist 1 0000 
+02.12.2021 - 14:47 Zahl 2 ist 23 0000 
+02.12.2021 - 14:47 Zahl 3 ist 7 0000 
+02.12.2021 - 14:47 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 14:47 Eingegeben Zahl 1 ensptricht code 0000 
+02.12.2021 - 14:47 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 14:47 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 14:47 Eingegeben Zahl 3 ensptricht code 0000 
+02.12.2021 - 14:48 Zahl 1 ist 1 0000 
+02.12.2021 - 14:48 Zahl 2 ist 23 0000 
+02.12.2021 - 14:48 Zahl 3 ist 7 0000 
+02.12.2021 - 14:48 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 14:48 Eingegeben Zahl 1 ensptricht code 0000 
+02.12.2021 - 15:03 Zahl 1 ist 1 0000 
+02.12.2021 - 15:03 Zahl 2 ist 23 0000 
+02.12.2021 - 15:03 Zahl 3 ist 7 0000 
+02.12.2021 - 15:03 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:03 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:06 Zahl 1 ist 1 0000 
+02.12.2021 - 15:06 Zahl 2 ist 23 0000 
+02.12.2021 - 15:06 Zahl 3 ist 7 0000 
+02.12.2021 - 15:06 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:06 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:06 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:06 Eingegebene Zahl 2 status:  0000 
+02.12.2021 - 15:06 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:06 Eingegebene Zahl 3 status: 1 0000 
+02.12.2021 - 15:06 Zahl 1 ist 1 0000 
+02.12.2021 - 15:06 Zahl 2 ist 23 0000 
+02.12.2021 - 15:06 Zahl 3 ist 7 0000 
+02.12.2021 - 15:06 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:06 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:06 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:06 Eingegebene Zahl 2 status:  0000 
+02.12.2021 - 15:06 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:06 Eingegebene Zahl 3 status: 1 0000 
+02.12.2021 - 15:07 Zahl 1 ist 1 0000 
+02.12.2021 - 15:07 Zahl 2 ist 23 0000 
+02.12.2021 - 15:07 Zahl 3 ist 7 0000 
+02.12.2021 - 15:07 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:07 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:07 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:07 Eingegebene Zahl 2 status:  0000 
+02.12.2021 - 15:07 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:07 Eingegebene Zahl 3 status: 1 0000 
+02.12.2021 - 15:07 Zahl 1 ist 1 0000 
+02.12.2021 - 15:07 Zahl 2 ist 23 0000 
+02.12.2021 - 15:07 Zahl 3 ist 7 0000 
+02.12.2021 - 15:07 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:07 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:07 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:07 Eingegebene Zahl 2 status:  0000 
+02.12.2021 - 15:07 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:07 Eingegebene Zahl 3 status: 1 0000 
+02.12.2021 - 15:08 Zahl 1 ist 1 0000 
+02.12.2021 - 15:08 Zahl 2 ist 23 0000 
+02.12.2021 - 15:08 Zahl 3 ist 7 0000 
+02.12.2021 - 15:08 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:08 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:08 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:08 Eingegebene Zahl 2 status:  0000 
+02.12.2021 - 15:08 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:08 Eingegebene Zahl 3 status: 1 0000 
+02.12.2021 - 15:12 Zahl 1 ist 12 0000 
+02.12.2021 - 15:12 Zahl 2 ist 23 0000 
+02.12.2021 - 15:12 Zahl 3 ist 7 0000 
+02.12.2021 - 15:12 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:12 Eingegebene Zahl 1 status:  0000 
+02.12.2021 - 15:12 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:12 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:12 Eingegebene Zahl 2 status:  0000 
+02.12.2021 - 15:12 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:12 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:12 Eingegebene Zahl 3 status: 1 0000 
+02.12.2021 - 15:12 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:14 Zahl 1 ist 12 0000 
+02.12.2021 - 15:14 Zahl 2 ist 23 0000 
+02.12.2021 - 15:14 Zahl 3 ist 7 0000 
+02.12.2021 - 15:14 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:14 Eingegebene Zahl 1 status:  0000 
+02.12.2021 - 15:14 Funktion: answer var: zahl status: 1 var: textpart status: dritte 0000 
+02.12.2021 - 15:14 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:14 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:14 Eingegebene Zahl 2 status:  0000 
+02.12.2021 - 15:14 Funktion: answer var: zahl status: 2 var: textpart status: dritte 0000 
+02.12.2021 - 15:14 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:14 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:14 Eingegebene Zahl 3 status: 1 0000 
+02.12.2021 - 15:14 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+02.12.2021 - 15:14 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:15 Zahl 1 ist 12 0000 
+02.12.2021 - 15:15 Zahl 2 ist 23 0000 
+02.12.2021 - 15:15 Zahl 3 ist 7 0000 
+02.12.2021 - 15:15 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:15 Eingegebene Zahl 1 status:  0000 
+02.12.2021 - 15:15 Funktion: answer var: zahl status: 1 var: textpart status: dritte 0000 
+02.12.2021 - 15:15 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:15 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:15 Eingegebene Zahl 2 status:  0000 
+02.12.2021 - 15:15 Funktion: answer var: zahl status: 2 var: textpart status: dritte 0000 
+02.12.2021 - 15:15 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:15 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:15 Eingegebene Zahl 3 status: 1 0000 
+02.12.2021 - 15:15 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+02.12.2021 - 15:15 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:15 Zahl 1 ist 1 0000 
+02.12.2021 - 15:15 Zahl 2 ist 23 0000 
+02.12.2021 - 15:15 Zahl 3 ist 3 0000 
+02.12.2021 - 15:15 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:15 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:15 Funktion: answer var: zahl status: 1 var: textpart status: dritte 0000 
+02.12.2021 - 15:15 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:15 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:15 Eingegebene Zahl 2 status:  0000 
+02.12.2021 - 15:15 Funktion: answer var: zahl status: 2 var: textpart status: dritte 0000 
+02.12.2021 - 15:15 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:15 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:15 Eingegebene Zahl 3 status:  0000 
+02.12.2021 - 15:15 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+02.12.2021 - 15:15 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:15 Zahl 1 ist 1 0000 
+02.12.2021 - 15:15 Zahl 2 ist 23 0000 
+02.12.2021 - 15:15 Zahl 3 ist 3 0000 
+02.12.2021 - 15:15 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:15 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:15 Funktion: answer var: zahl status: 1 var: textpart status: dritte 0000 
+02.12.2021 - 15:15 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:15 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:15 Eingegebene Zahl 2 status:  0000 
+02.12.2021 - 15:15 Funktion: answer var: zahl status: 2 var: textpart status: dritte 0000 
+02.12.2021 - 15:15 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:15 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:15 Eingegebene Zahl 3 status:  0000 
+02.12.2021 - 15:15 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+02.12.2021 - 15:15 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:20 Zahl 1 ist 1 0000 
+02.12.2021 - 15:20 Zahl 2 ist 23 0000 
+02.12.2021 - 15:20 Zahl 3 ist 3 0000 
+02.12.2021 - 15:20 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:20 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:20 Funktion: answer var: zahl status: 1 var: textpart status: dritte 0000 
+02.12.2021 - 15:20 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:20 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:20 Eingegebene Zahl 2 status:  0000 
+02.12.2021 - 15:20 Funktion: answer var: zahl status: 2 var: textpart status: dritte 0000 
+02.12.2021 - 15:20 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:20 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:20 Eingegebene Zahl 3 status:  0000 
+02.12.2021 - 15:20 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+02.12.2021 - 15:20 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:20 Zahl 1 ist 1 0000 
+02.12.2021 - 15:20 Zahl 2 ist 8 0000 
+02.12.2021 - 15:20 Zahl 3 ist 7 0000 
+02.12.2021 - 15:20 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:20 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:20 Funktion: answer var: zahl status: 1 var: textpart status: dritte 0000 
+02.12.2021 - 15:20 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:20 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:20 Eingegebene Zahl 2 status: 1 0000 
+02.12.2021 - 15:20 Funktion: answer var: zahl status: 2 var: textpart status: dritte 0000 
+02.12.2021 - 15:20 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:20 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:20 Eingegebene Zahl 3 status: 1 0000 
+02.12.2021 - 15:20 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+02.12.2021 - 15:20 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:22 Zahl 1 ist 1 0000 
+02.12.2021 - 15:22 Zahl 2 ist 8 0000 
+02.12.2021 - 15:22 Zahl 3 ist 7 0000 
+02.12.2021 - 15:22 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:22 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:22 Funktion: answer var: zahl status: 1 var: textpart status: dritte 0000 
+02.12.2021 - 15:22 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:22 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:22 Eingegebene Zahl 2 status: 1 0000 
+02.12.2021 - 15:22 Funktion: answer var: zahl status: 2 var: textpart status: dritte 0000 
+02.12.2021 - 15:22 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:22 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:22 Eingegebene Zahl 3 status: 1 0000 
+02.12.2021 - 15:22 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+02.12.2021 - 15:22 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:36 -------------------------- 0000 
+02.12.2021 - 15:36 Zahl 1 ist 1 0000 
+02.12.2021 - 15:36 Zahl 2 ist 8 0000 
+02.12.2021 - 15:36 Zahl 3 ist 7 0000 
+02.12.2021 - 15:36 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:36 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:36 Funktion: answer var: zahl status: 1 var: textpart status: dritte 0000 
+02.12.2021 - 15:36 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:36 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:36 Eingegebene Zahl 2 status: 1 0000 
+02.12.2021 - 15:36 Funktion: answer var: zahl status: 2 var: textpart status: dritte 0000 
+02.12.2021 - 15:36 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:36 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:36 Eingegebene Zahl 3 status: 1 0000 
+02.12.2021 - 15:36 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+02.12.2021 - 15:36 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:38 -------------------------- 0000 
+02.12.2021 - 15:38 Zahl 1 ist 1 0000 
+02.12.2021 - 15:38 Zahl 2 ist 8 0000 
+02.12.2021 - 15:38 Zahl 3 ist 7 0000 
+02.12.2021 - 15:38 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:38 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:38 Funktion: answer var: zahl status: 1 var: textpart status: dritte 0000 
+02.12.2021 - 15:38 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:38 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:38 Eingegebene Zahl 2 status: 1 0000 
+02.12.2021 - 15:38 Funktion: answer var: zahl status: 2 var: textpart status: dritte 0000 
+02.12.2021 - 15:38 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:38 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:38 Eingegebene Zahl 3 status: 1 0000 
+02.12.2021 - 15:38 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+02.12.2021 - 15:38 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:38 -------------------------- 0000 
+02.12.2021 - 15:38 Zahl 1 ist 1 0000 
+02.12.2021 - 15:38 Zahl 2 ist 23 0000 
+02.12.2021 - 15:38 Zahl 3 ist 3 0000 
+02.12.2021 - 15:38 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:38 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:38 Funktion: answer var: zahl status: 1 var: textpart status: dritte 0000 
+02.12.2021 - 15:38 Ausgabe: dritte Zahl status: 1 0000 
+02.12.2021 - 15:38 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:38 Eingegebene Zahl 2 status:  0000 
+02.12.2021 - 15:38 Funktion: answer var: zahl status: 2 var: textpart status: dritte 0000 
+02.12.2021 - 15:38 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:38 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:38 Eingegebene Zahl 3 status:  0000 
+02.12.2021 - 15:38 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+02.12.2021 - 15:38 Ausgabe: dritte Zahl status:  0000 
+02.12.2021 - 15:39 -------------------------- 0000 
+02.12.2021 - 15:39 Zahl 1 ist 1 0000 
+02.12.2021 - 15:39 Zahl 2 ist 2 0000 
+02.12.2021 - 15:39 Zahl 3 ist 3 0000 
+02.12.2021 - 15:39 Code Zahl 1 gelesen: 1
+ 0000 
+02.12.2021 - 15:39 Eingegebene Zahl 1 status: 1 0000 
+02.12.2021 - 15:39 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+02.12.2021 - 15:39 Ausgabe: erste Zahl status: 1 0000 
+02.12.2021 - 15:39 Code Zahl 2 gelesen: 8
+ 0000 
+02.12.2021 - 15:39 Eingegebene Zahl 2 status:  0000 
+02.12.2021 - 15:39 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+02.12.2021 - 15:39 Ausgabe: zweite Zahl status:  0000 
+02.12.2021 - 15:39 Code Zahl 3 gelesen: 7 0000 
+02.12.2021 - 15:39 Eingegebene Zahl 3 status:  0000 
+02.12.2021 - 15:39 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+02.12.2021 - 15:39 Ausgabe: dritte Zahl status:  0000 
+04.12.2021 - 22:17 -------------------------- 0000 
+04.12.2021 - 22:17 Zahl 1 ist  0000 
+04.12.2021 - 22:17 Zahl 2 ist  0000 
+04.12.2021 - 22:17 Zahl 3 ist  0000 
+04.12.2021 - 22:17 Code Zahl 1 gelesen: 1
+ 0000 
+04.12.2021 - 22:17 Eingegebene Zahl 1 status:  0000 
+04.12.2021 - 22:17 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+04.12.2021 - 22:17 Ausgabe: erste Zahl status:  0000 
+04.12.2021 - 22:17 Code Zahl 2 gelesen: 8
+ 0000 
+04.12.2021 - 22:17 Eingegebene Zahl 2 status:  0000 
+04.12.2021 - 22:17 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+04.12.2021 - 22:17 Ausgabe: zweite Zahl status:  0000 
+04.12.2021 - 22:17 Code Zahl 3 gelesen: 7 0000 
+04.12.2021 - 22:17 Eingegebene Zahl 3 status:  0000 
+04.12.2021 - 22:17 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+04.12.2021 - 22:17 Ausgabe: dritte Zahl status:  0000 
+04.12.2021 - 22:19 -------------------------- 0000 
+04.12.2021 - 22:19 Zahl 1 ist 1 0000 
+04.12.2021 - 22:19 Zahl 2 ist 2 0000 
+04.12.2021 - 22:19 Zahl 3 ist 3 0000 
+04.12.2021 - 22:19 Code Zahl 1 gelesen: 1
+ 0000 
+04.12.2021 - 22:19 Eingegebene Zahl 1 status: 1 0000 
+04.12.2021 - 22:19 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+04.12.2021 - 22:19 Ausgabe: erste Zahl status: 1 0000 
+04.12.2021 - 22:19 Code Zahl 2 gelesen: 8
+ 0000 
+04.12.2021 - 22:19 Eingegebene Zahl 2 status:  0000 
+04.12.2021 - 22:19 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+04.12.2021 - 22:19 Ausgabe: zweite Zahl status:  0000 
+04.12.2021 - 22:19 Code Zahl 3 gelesen: 7 0000 
+04.12.2021 - 22:19 Eingegebene Zahl 3 status:  0000 
+04.12.2021 - 22:19 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+04.12.2021 - 22:19 Ausgabe: dritte Zahl status:  0000 
+04.12.2021 - 22:39 -------------------------- 0000 
+04.12.2021 - 22:39 Zahl 1 ist 1 0000 
+04.12.2021 - 22:39 Zahl 2 ist 2 0000 
+04.12.2021 - 22:39 Zahl 3 ist 3 0000 
+04.12.2021 - 22:39 Code Zahl 1 gelesen: 1
+ 0000 
+04.12.2021 - 22:39 Eingegebene Zahl 1 status: 1 0000 
+04.12.2021 - 22:39 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+04.12.2021 - 22:39 Ausgabe: erste Zahl status: 1 0000 
+04.12.2021 - 22:39 Code Zahl 2 gelesen: 8
+ 0000 
+04.12.2021 - 22:39 Eingegebene Zahl 2 status:  0000 
+04.12.2021 - 22:39 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+04.12.2021 - 22:39 Ausgabe: zweite Zahl status:  0000 
+04.12.2021 - 22:39 Code Zahl 3 gelesen: 7 0000 
+04.12.2021 - 22:39 Eingegebene Zahl 3 status:  0000 
+04.12.2021 - 22:39 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+04.12.2021 - 22:39 Ausgabe: dritte Zahl status:  0000 
+04.12.2021 - 22:39 -------------------------- 0000 
+04.12.2021 - 22:39 Zahl 1 ist 1 0000 
+04.12.2021 - 22:39 Zahl 2 ist 2 0000 
+04.12.2021 - 22:39 Zahl 3 ist 3 0000 
+04.12.2021 - 22:39 Code Zahl 1 gelesen: 1
+ 0000 
+04.12.2021 - 22:39 Eingegebene Zahl 1 status: 1 0000 
+04.12.2021 - 22:39 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+04.12.2021 - 22:39 Ausgabe: erste Zahl status: 1 0000 
+04.12.2021 - 22:39 Code Zahl 2 gelesen: 8
+ 0000 
+04.12.2021 - 22:39 Eingegebene Zahl 2 status:  0000 
+04.12.2021 - 22:39 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+04.12.2021 - 22:39 Ausgabe: zweite Zahl status:  0000 
+04.12.2021 - 22:39 Code Zahl 3 gelesen: 7 0000 
+04.12.2021 - 22:39 Eingegebene Zahl 3 status:  0000 
+04.12.2021 - 22:39 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+04.12.2021 - 22:39 Ausgabe: dritte Zahl status:  0000 
+04.12.2021 - 22:39 -------------------------- 0000 
+04.12.2021 - 22:39 Zahl 1 ist 1 0000 
+04.12.2021 - 22:39 Zahl 2 ist 2 0000 
+04.12.2021 - 22:39 Zahl 3 ist 3 0000 
+04.12.2021 - 22:39 Code Zahl 1 gelesen: 1
+ 0000 
+04.12.2021 - 22:39 Eingegebene Zahl 1 status: 1 0000 
+04.12.2021 - 22:39 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+04.12.2021 - 22:39 Ausgabe: erste Zahl status: 1 0000 
+04.12.2021 - 22:39 Code Zahl 2 gelesen: 8
+ 0000 
+04.12.2021 - 22:39 Eingegebene Zahl 2 status:  0000 
+04.12.2021 - 22:39 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+04.12.2021 - 22:39 Ausgabe: zweite Zahl status:  0000 
+04.12.2021 - 22:39 Code Zahl 3 gelesen: 7 0000 
+04.12.2021 - 22:39 Eingegebene Zahl 3 status:  0000 
+04.12.2021 - 22:39 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+04.12.2021 - 22:39 Ausgabe: dritte Zahl status:  0000 
+04.12.2021 - 22:56 -------------------------- 0000 
+04.12.2021 - 22:56 Zahl 1 ist 1 0000 
+04.12.2021 - 22:56 Zahl 2 ist 2 0000 
+04.12.2021 - 22:56 Zahl 3 ist 3 0000 
+04.12.2021 - 22:56 Code Zahl 1 gelesen: 1
+ 0000 
+04.12.2021 - 22:56 Eingegebene Zahl 1 status: 1 0000 
+04.12.2021 - 22:56 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+04.12.2021 - 22:56 Ausgabe: erste Zahl status: 1 0000 
+04.12.2021 - 22:56 Code Zahl 2 gelesen: 8
+ 0000 
+04.12.2021 - 22:56 Eingegebene Zahl 2 status:  0000 
+04.12.2021 - 22:56 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+04.12.2021 - 22:56 Ausgabe: zweite Zahl status:  0000 
+04.12.2021 - 22:56 Code Zahl 3 gelesen: 7 0000 
+04.12.2021 - 22:56 Eingegebene Zahl 3 status:  0000 
+04.12.2021 - 22:56 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+04.12.2021 - 22:56 Ausgabe: dritte Zahl status:  0000 
+05.12.2021 - 18:38 -------------------------- 0000 
+05.12.2021 - 18:38 Zahl 1 ist  0000 
+05.12.2021 - 18:38 Zahl 2 ist  0000 
+05.12.2021 - 18:38 Zahl 3 ist  0000 
+05.12.2021 - 18:38 Code Zahl 1 gelesen: 1
+ 0000 
+05.12.2021 - 18:38 Eingegebene Zahl 1 status:  0000 
+05.12.2021 - 18:38 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+05.12.2021 - 18:38 Ausgabe: erste Zahl status:  0000 
+05.12.2021 - 18:38 Code Zahl 2 gelesen: 8
+ 0000 
+05.12.2021 - 18:38 Eingegebene Zahl 2 status:  0000 
+05.12.2021 - 18:38 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+05.12.2021 - 18:38 Ausgabe: zweite Zahl status:  0000 
+05.12.2021 - 18:38 Code Zahl 3 gelesen: 7 0000 
+05.12.2021 - 18:38 Eingegebene Zahl 3 status:  0000 
+05.12.2021 - 18:38 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+05.12.2021 - 18:38 Ausgabe: dritte Zahl status:  0000 
+05.12.2021 - 18:39 -------------------------- 0000 
+05.12.2021 - 18:39 Zahl 1 ist 1 0000 
+05.12.2021 - 18:39 Zahl 2 ist 2 0000 
+05.12.2021 - 18:39 Zahl 3 ist 3 0000 
+05.12.2021 - 18:39 Code Zahl 1 gelesen: 1
+ 0000 
+05.12.2021 - 18:39 Eingegebene Zahl 1 status: 1 0000 
+05.12.2021 - 18:39 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+05.12.2021 - 18:39 Ausgabe: erste Zahl status: 1 0000 
+05.12.2021 - 18:39 Code Zahl 2 gelesen: 8
+ 0000 
+05.12.2021 - 18:39 Eingegebene Zahl 2 status:  0000 
+05.12.2021 - 18:39 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+05.12.2021 - 18:39 Ausgabe: zweite Zahl status:  0000 
+05.12.2021 - 18:39 Code Zahl 3 gelesen: 7 0000 
+05.12.2021 - 18:39 Eingegebene Zahl 3 status:  0000 
+05.12.2021 - 18:39 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+05.12.2021 - 18:39 Ausgabe: dritte Zahl status:  0000 
+05.12.2021 - 18:39 -------------------------- 0000 
+05.12.2021 - 18:39 Zahl 1 ist 2 0000 
+05.12.2021 - 18:39 Zahl 2 ist 3 0000 
+05.12.2021 - 18:39 Zahl 3 ist 4 0000 
+05.12.2021 - 18:39 Code Zahl 1 gelesen: 1
+ 0000 
+05.12.2021 - 18:39 Eingegebene Zahl 1 status:  0000 
+05.12.2021 - 18:39 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+05.12.2021 - 18:39 Ausgabe: erste Zahl status:  0000 
+05.12.2021 - 18:39 Code Zahl 2 gelesen: 8
+ 0000 
+05.12.2021 - 18:39 Eingegebene Zahl 2 status:  0000 
+05.12.2021 - 18:39 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+05.12.2021 - 18:39 Ausgabe: zweite Zahl status:  0000 
+05.12.2021 - 18:39 Code Zahl 3 gelesen: 7 0000 
+05.12.2021 - 18:39 Eingegebene Zahl 3 status:  0000 
+05.12.2021 - 18:39 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+05.12.2021 - 18:39 Ausgabe: dritte Zahl status:  0000 
+05.12.2021 - 18:48 -------------------------- 0000 
+05.12.2021 - 18:48 Zahl 1 ist 2 0000 
+05.12.2021 - 18:48 Zahl 2 ist 3 0000 
+05.12.2021 - 18:48 Zahl 3 ist 4 0000 
+05.12.2021 - 18:48 Code Zahl 1 gelesen: 1
+ 0000 
+05.12.2021 - 18:48 Eingegebene Zahl 1 status:  0000 
+05.12.2021 - 18:48 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+05.12.2021 - 18:48 Ausgabe: erste Zahl status:  0000 
+05.12.2021 - 18:48 Code Zahl 2 gelesen: 8
+ 0000 
+05.12.2021 - 18:48 Eingegebene Zahl 2 status:  0000 
+05.12.2021 - 18:48 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+05.12.2021 - 18:48 Ausgabe: zweite Zahl status:  0000 
+05.12.2021 - 18:48 Code Zahl 3 gelesen: 7 0000 
+05.12.2021 - 18:48 Eingegebene Zahl 3 status:  0000 
+05.12.2021 - 18:48 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+05.12.2021 - 18:48 Ausgabe: dritte Zahl status:  0000 
+05.12.2021 - 18:49 -------------------------- 0000 
+05.12.2021 - 18:49 Zahl 1 ist 1 0000 
+05.12.2021 - 18:49 Zahl 2 ist 2 0000 
+05.12.2021 - 18:49 Zahl 3 ist 3 0000 
+05.12.2021 - 18:49 Code Zahl 1 gelesen: 1
+ 0000 
+05.12.2021 - 18:49 Eingegebene Zahl 1 status: 1 0000 
+05.12.2021 - 18:49 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+05.12.2021 - 18:49 Ausgabe: erste Zahl status: 1 0000 
+05.12.2021 - 18:49 Code Zahl 2 gelesen: 8
+ 0000 
+05.12.2021 - 18:49 Eingegebene Zahl 2 status:  0000 
+05.12.2021 - 18:49 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+05.12.2021 - 18:49 Ausgabe: zweite Zahl status:  0000 
+05.12.2021 - 18:49 Code Zahl 3 gelesen: 7 0000 
+05.12.2021 - 18:49 Eingegebene Zahl 3 status:  0000 
+05.12.2021 - 18:49 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+05.12.2021 - 18:49 Ausgabe: dritte Zahl status:  0000 
+05.12.2021 - 18:49 -------------------------- 0000 
+05.12.2021 - 18:49 Zahl 1 ist 1 0000 
+05.12.2021 - 18:49 Zahl 2 ist 2 0000 
+05.12.2021 - 18:49 Zahl 3 ist 3 0000 
+05.12.2021 - 18:49 Code Zahl 1 gelesen: 1
+ 0000 
+05.12.2021 - 18:49 Eingegebene Zahl 1 status: 1 0000 
+05.12.2021 - 18:49 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+05.12.2021 - 18:49 Ausgabe: erste Zahl status: 1 0000 
+05.12.2021 - 18:49 Code Zahl 2 gelesen: 8
+ 0000 
+05.12.2021 - 18:49 Eingegebene Zahl 2 status:  0000 
+05.12.2021 - 18:49 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+05.12.2021 - 18:49 Ausgabe: zweite Zahl status:  0000 
+05.12.2021 - 18:49 Code Zahl 3 gelesen: 7 0000 
+05.12.2021 - 18:49 Eingegebene Zahl 3 status:  0000 
+05.12.2021 - 18:49 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+05.12.2021 - 18:49 Ausgabe: dritte Zahl status:  0000 
+05.12.2021 - 18:49 Checkstates: false 0000 
+05.12.2021 - 18:52 -------------------------- 0000 
+05.12.2021 - 18:52 Zahl 1 ist 1 0000 
+05.12.2021 - 18:52 Zahl 2 ist 2 0000 
+05.12.2021 - 18:52 Zahl 3 ist 3 0000 
+05.12.2021 - 18:52 Code Zahl 1 gelesen: 1
+ 0000 
+05.12.2021 - 18:52 Eingegebene Zahl 1 status: 1 0000 
+05.12.2021 - 18:52 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+05.12.2021 - 18:52 Ausgabe: erste Zahl status: 1 0000 
+05.12.2021 - 18:52 Code Zahl 2 gelesen: 8
+ 0000 
+05.12.2021 - 18:52 Eingegebene Zahl 2 status:  0000 
+05.12.2021 - 18:52 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+05.12.2021 - 18:52 Ausgabe: zweite Zahl status:  0000 
+05.12.2021 - 18:52 Code Zahl 3 gelesen: 7 0000 
+05.12.2021 - 18:52 Eingegebene Zahl 3 status:  0000 
+05.12.2021 - 18:52 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+05.12.2021 - 18:52 Ausgabe: dritte Zahl status:  0000 
+05.12.2021 - 18:52 Checkstates: false 0000 
+05.12.2021 - 18:53 -------------------------- 0000 
+05.12.2021 - 18:53 Zahl 1 ist 1 0000 
+05.12.2021 - 18:53 Zahl 2 ist 2 0000 
+05.12.2021 - 18:53 Zahl 3 ist 3 0000 
+05.12.2021 - 18:53 Code Zahl 1 gelesen: 1
+ 0000 
+05.12.2021 - 18:53 Eingegebene Zahl 1 status: 1 0000 
+05.12.2021 - 18:53 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+05.12.2021 - 18:53 Ausgabe: erste Zahl status: 1 0000 
+05.12.2021 - 18:53 Code Zahl 2 gelesen: 8
+ 0000 
+05.12.2021 - 18:53 Eingegebene Zahl 2 status:  0000 
+05.12.2021 - 18:53 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+05.12.2021 - 18:53 Ausgabe: zweite Zahl status:  0000 
+05.12.2021 - 18:53 Code Zahl 3 gelesen: 7 0000 
+05.12.2021 - 18:53 Eingegebene Zahl 3 status:  0000 
+05.12.2021 - 18:53 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+05.12.2021 - 18:53 Ausgabe: dritte Zahl status:  0000 
+05.12.2021 - 18:53 Checkstates: false 0000 
+06.12.2021 - 14:58 Zahl 1 ist 1 0000 
+06.12.2021 - 14:58 Zahl 2 ist 2 0000 
+06.12.2021 - 14:58 Zahl 3 ist 3 0000 
+06.12.2021 - 14:58 Code Zahl 1 gelesen: 1 0000 
+06.12.2021 - 14:58 Check1 true 0000 
+06.12.2021 - 14:58 Eingegebene Zahl 1 status: 1 0000 
+06.12.2021 - 14:58 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+06.12.2021 - 14:58 Ausgabe: erste Zahl status: 1 0000 
+06.12.2021 - 14:58 Code Zahl 2 gelesen: 8 0000 
+06.12.2021 - 14:58 Eingegebene Zahl 2 status:  0000 
+06.12.2021 - 14:58 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+06.12.2021 - 14:58 Ausgabe: zweite Zahl status:  0000 
+06.12.2021 - 14:58 Code Zahl 3 gelesen: 7 0000 
+06.12.2021 - 14:58 Eingegebene Zahl 3 status:  0000 
+06.12.2021 - 14:58 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+06.12.2021 - 14:58 Ausgabe: dritte Zahl status:  0000 
+06.12.2021 - 14:58 Counter plus. Counter = 1 0000 
+06.12.2021 - 14:58 Zahl 1 ist 2 0000 
+06.12.2021 - 14:58 Zahl 2 ist 3 0000 
+06.12.2021 - 14:58 Zahl 3 ist 4 0000 
+06.12.2021 - 14:58 Code Zahl 1 gelesen: 1 0000 
+06.12.2021 - 14:58 Eingegebene Zahl 1 status:  0000 
+06.12.2021 - 14:58 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+06.12.2021 - 14:58 Ausgabe: erste Zahl status:  0000 
+06.12.2021 - 14:58 Code Zahl 2 gelesen: 8 0000 
+06.12.2021 - 14:58 Eingegebene Zahl 2 status:  0000 
+06.12.2021 - 14:58 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+06.12.2021 - 14:58 Ausgabe: zweite Zahl status:  0000 
+06.12.2021 - 14:58 Code Zahl 3 gelesen: 7 0000 
+06.12.2021 - 14:58 Eingegebene Zahl 3 status:  0000 
+06.12.2021 - 14:58 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+06.12.2021 - 14:58 Ausgabe: dritte Zahl status:  0000 
+06.12.2021 - 14:58 Counter plus. Counter = 1 0000 
+06.12.2021 - 14:58 Zahl 1 ist  0000 
+06.12.2021 - 14:58 Zahl 2 ist  0000 
+06.12.2021 - 14:58 Zahl 3 ist  0000 
+06.12.2021 - 14:58 Zahl 1 ist  0000 
+06.12.2021 - 14:58 Zahl 2 ist  0000 
+06.12.2021 - 14:58 Zahl 3 ist  0000 
+06.12.2021 - 14:58 Zahl 1 ist 1 0000 
+06.12.2021 - 14:58 Zahl 2 ist  0000 
+06.12.2021 - 14:58 Zahl 3 ist  0000 
+06.12.2021 - 14:58 Code Zahl 1 gelesen: 1 0000 
+06.12.2021 - 14:58 Check1 true 0000 
+06.12.2021 - 14:58 Eingegebene Zahl 1 status: 1 0000 
+06.12.2021 - 14:58 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+06.12.2021 - 14:58 Ausgabe: erste Zahl status: 1 0000 
+06.12.2021 - 14:58 Counter plus. Counter = 1 0000 
