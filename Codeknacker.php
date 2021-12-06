@@ -7,8 +7,9 @@
   <?php
         $status1 = False;
         $status2 = False;
-        $status3 = False;
+        $status3 = False; 
         $fehler = False;
+        $counter = 0;
   ?>
   </head>
   <body>
