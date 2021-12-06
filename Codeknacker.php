@@ -48,7 +48,8 @@
             answer(check3($Zahl3), 3);
           }
           if(!$fehler) {
-            counter(checkstates($status1, $status2, $status3));
+            $counter = counter(checkstates($status1, $status2, $status3), $counter);
+            
           }
 
         }

@@ -7,7 +7,7 @@
       fwrite($file, $in);
       fclose($file);
       }
-      
+
     function check1($input) { //�berpr�fen der ersten Zahl
         $file = fopen("Code.txt", "r");
         $line = fgets($file);
@@ -120,6 +120,7 @@
         logs("Code geknackt! Counter = $codeknacker");
         echo "<br>Sie haben den Code geknackt und $coutner Rateversuche gebraucht!";
       }
+      return $counter;
     }
 
     function checkstates($s1, $s2, $s3) {  //überprüfen der einzelnen statuse der zahlen un zusammenfassung
