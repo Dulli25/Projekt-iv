@@ -110,18 +110,7 @@
       return True;
     }
 
-    function counter($state, $counter) {  //zähler der die anzahl der versuche darstellt
-      if(!$state) {
-        $counter = $counter + 1;
-        logs("Counter plus. Counter = $counter");
-        echo "<br>Das ist der $counter. Rateversuch!";
-      }
-      if($state) {
-        logs("Code geknackt! Counter = $codeknacker");
-        echo "<br>Sie haben den Code geknackt und $coutner Rateversuche gebraucht!";
-      }
-      return $counter;
-    }
+
 
     function checkstates($s1, $s2, $s3) {  //überprüfen der einzelnen statuse der zahlen un zusammenfassung
       $out = False;
