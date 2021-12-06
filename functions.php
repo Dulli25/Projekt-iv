@@ -7,6 +7,7 @@
       fwrite($file, $in);
       fclose($file);
       }
+      
     function check1($input) { //�berpr�fen der ersten Zahl
         $file = fopen("Code.txt", "r");
         $line = fgets($file);
@@ -26,6 +27,7 @@
         logs("Eingegebene Zahl 1 status: $out");
         return $out;
         }
+
     function check2($input) { //�berprufen der zweiten Zahl
         $file = fopen("Code.txt", "r");
         $line = fgets($file);
@@ -45,6 +47,7 @@
         logs("Eingegebene Zahl 2 status: $out");
         return $out;
         }
+
     function check3($input) { //�berprufen der dritten Zahl
         $file = fopen("Code.txt", "r");
         $line = fgets($file);
@@ -65,6 +68,7 @@
         logs("Eingegebene Zahl 3 status: $out");
         return $out;
         }
+
     function answer($check, $zahl) { //ausgabe der antwort auf die abfrage der Zahl
         switch($zahl) {
             case 1: {
@@ -91,6 +95,7 @@
             logs("Ausgabe: $textpart Zahl status: $check");
             }
         }
+
     function fehlercheck($value, $zahl) { //überprüft die eingabe auf fehler
       if(!is_numeric($value) && $value != NULL) {
         echo "<br>Bitte geben sie in der $zahl. Zeile eine Zahl ein!";
@@ -104,6 +109,7 @@
       }
       return True;
     }
+
     function counter($state, $counter) {  //zähler der die anzahl der versuche darstellt
       if(!$state) {
         $counter = $counter + 1;
@@ -115,6 +121,7 @@
         echo "<br>Sie haben den Code geknackt und $coutner Rateversuche gebraucht!";
       }
     }
+
     function checkstates($s1, $s2, $s3) {  //überprüfen der einzelnen statuse der zahlen un zusammenfassung
       $out = False;
       if($s1 == True && $s2 == True && $s3 == True) {
