@@ -48,7 +48,14 @@
             answer(check3($Zahl3), 3);
           }
           if(!$fehler) {
-
+            if(!checkstates($status1, $status2, $status3)) {
+              $counter = $counter + 1;
+              echo "<br>Das ist der $counter. Rateversuch!";
+            }
+            if(checkstates($status1, $status2, $status3)) {
+              echo "<br>Sie haben den Code geknackt!";
+              echo "<br>Sie haben $counter Versuche gebraucht!";
+            }
           }
 
         }
