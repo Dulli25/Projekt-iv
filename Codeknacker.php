@@ -9,7 +9,7 @@
         $status2 = False;
         $status3 = False; 
         $fehler = False;
-        $counter = 0;
+        $counter;
   ?>
   </head>
   <body>
