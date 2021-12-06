@@ -22,7 +22,7 @@
             $status1 = True;
             }
         else {
-          $status = False;
+          $status1 = False;
         }
         logs("Eingegebene Zahl 1 status: $out");
         return $out;
@@ -112,7 +112,7 @@
 
 
 
-    function checkstates($s1, $s2, $s3) {  //überprüfen der einzelnen statuse der zahlen un zusammenfassung
+    function checkstates($s1, $s2, $s3) {  //überprüfen der einzelnen statuse der zahlen und zusammenfassung
       $out = False;
       if($s1 == True && $s2 == True && $s3 == True) {
         $out = True;
