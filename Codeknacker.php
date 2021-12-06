@@ -32,10 +32,6 @@
         logs("Zahl 3 ist $Zahl3");
         $done = $_POST['done'];
 
-        $status1 = False;
-        $status2 = False;
-        $status3 = False;
-
         if($done && $Zahl1 != NULL || $Zahl2 != NULL || $Zahl3 != NULL) {
           $fehler = False;
           if(fehlercheck($Zahl1, 1)) {
