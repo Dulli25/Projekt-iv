@@ -10,6 +10,9 @@
         $status3 = False; 
         $fehler = False;
         $counter = 0;
+        $Zahl1 = NULL;
+        $Zahl2 = NULL;
+        $Zahl3 = NULL;
   ?>
   </head>
   <body>
