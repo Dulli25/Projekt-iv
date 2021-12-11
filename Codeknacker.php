@@ -27,11 +27,11 @@
   <h3>Ergebnis:</h3>
   <?php
         include("functions.php");
-        $Zahl1 = $_POST['zahl1'];
+        $Zahl1 = $_POST['zahl1'] ?? null;
         logs("Zahl 1 ist $Zahl1");
-        $Zahl2 = $_POST['zahl2'];
+        $Zahl2 = $_POST['zahl2'] ?? null;
         logs("Zahl 2 ist $Zahl2");
-        $Zahl3 = $_POST['zahl3'];
+        $Zahl3 = $_POST['zahl3'] ?? null;
         logs("Zahl 3 ist $Zahl3");
         $done = $_POST['done'];
 
@@ -49,6 +49,7 @@
           if(!$fehler) {
             if(!checkstates($status1, $status2, $status3)) {
               $counter = $counter + 1;
+              logs("Counter = $counter");
               echo "<br>Das ist der $counter. Rateversuch!";
             }
             if(checkstates($status1, $status2, $status3)) {
