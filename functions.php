@@ -68,6 +68,22 @@
         logs("Eingegebene Zahl 3 status: $out");
         return $out;
         }
+    
+    function checkCode($input, $val) {  //üverprüfen einer beliebigen Zahl
+      $file = fopen("Code.txt", "r");
+      for($i=0; $i<=$val; $i++) {
+        $line = fgets($file);
+      }
+      $out = false;
+      trim($line, " \n");
+      $line = intval($line);
+      logs("Code Zahl $val gelesen: $line");
+      if($line == $input) {
+        $out = true;
+      }
+      logs("Eingegebene Zahl $val status: $out");
+      return $out;
+      }
 
     function answer($check, $zahl) { //ausgabe der antwort auf die abfrage der Zahl
         switch($zahl) {
@@ -120,11 +136,11 @@
       return $out;
       }
     
-    function counterplus($counter) {
+    function counterplus($counter) {  //counter funktion
       $datei = fopen("counter.txt", "w");
       fwrite($datei, "$counter");
       fclose($datei);
-      fopen("counter.txt", "r");
+      $datei = fopen("counter.txt", "r");
       $zeile = fgets($datei);
       trim($zeile, " \n");
       intval($zeile);
