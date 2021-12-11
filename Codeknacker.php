@@ -9,7 +9,6 @@
         $status2 = False;
         $status3 = False; 
         $fehler = False;
-        $counter = 0;
         $Zahl1 = NULL;
         $Zahl2 = NULL;
         $Zahl3 = NULL;
@@ -48,11 +47,12 @@
           }
           if(!$fehler) {
             if(!checkstates($status1, $status2, $status3)) {
-              $counter = $counter + 1;
+              $counter = counterplus($counter + 1);
               logs("Counter = $counter");
               echo "<br>Das ist der $counter. Rateversuch!";
             }
             if(checkstates($status1, $status2, $status3)) {
+              $counter = counterplus(0);
               echo "<br>Sie haben den Code geknackt!";
               echo "<br>Sie haben $counter Versuche gebraucht!";
             }

@@ -108,7 +108,7 @@
         return False;
       }
       return True;
-    }
+      }
 
 
 
@@ -118,5 +118,16 @@
         $out = True;
       }
       return $out;
+      }
+    
+    function counterplus($counter) {
+      $datei = fopen("counter.txt", "w");
+      fwrite($datei, "$counter");
+      fclose($datei);
+      fopen("counter.txt", "r");
+      $zeile = fgets($datei);
+      trim($zeile, " \n");
+      intval($zeile);
+      return $zeile;
     }
 ?>
