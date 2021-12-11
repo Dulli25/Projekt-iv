@@ -99,6 +99,10 @@
                 $textpart = "dritte";
                 break;
                 }
+            case 4: {
+                $textpart = "vierte";
+                break;
+            }
             }
         logs("Funktion: answer var: zahl status: $zahl var: textpart status: $textpart");
         if($check) {

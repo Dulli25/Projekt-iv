@@ -1112,3 +1112,108 @@
 11.12.2021 - 17:07 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
 11.12.2021 - 17:07 Ausgabe: dritte Zahl status:  0000 
 11.12.2021 - 17:07 Counter = 1 0000 
+11.12.2021 - 17:12 Zahl 1 ist 2 0000 
+11.12.2021 - 17:12 Zahl 2 ist 3 0000 
+11.12.2021 - 17:12 Zahl 3 ist 4 0000 
+11.12.2021 - 17:12 Zahl 4 ist  0000 
+11.12.2021 - 17:12 Code Zahl 1 gelesen: 1 0000 
+11.12.2021 - 17:12 Eingegebene Zahl 1 status:  0000 
+11.12.2021 - 17:12 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+11.12.2021 - 17:12 Ausgabe: erste Zahl status:  0000 
+11.12.2021 - 17:12 Code Zahl 2 gelesen: 8 0000 
+11.12.2021 - 17:12 Eingegebene Zahl 2 status:  0000 
+11.12.2021 - 17:12 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+11.12.2021 - 17:12 Ausgabe: zweite Zahl status:  0000 
+11.12.2021 - 17:12 Code Zahl 3 gelesen: 7 0000 
+11.12.2021 - 17:12 Eingegebene Zahl 3 status:  0000 
+11.12.2021 - 17:12 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+11.12.2021 - 17:12 Ausgabe: dritte Zahl status:  0000 
+11.12.2021 - 17:12 Counter = 1 0000 
+11.12.2021 - 17:12 Zahl 1 ist 1 0000 
+11.12.2021 - 17:12 Zahl 2 ist 2 0000 
+11.12.2021 - 17:12 Zahl 3 ist 3 0000 
+11.12.2021 - 17:12 Zahl 4 ist 4 0000 
+11.12.2021 - 17:12 Code Zahl 1 gelesen: 1 0000 
+11.12.2021 - 17:12 Check1 true 0000 
+11.12.2021 - 17:12 Eingegebene Zahl 1 status: 1 0000 
+11.12.2021 - 17:12 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+11.12.2021 - 17:12 Ausgabe: erste Zahl status: 1 0000 
+11.12.2021 - 17:12 Code Zahl 2 gelesen: 8 0000 
+11.12.2021 - 17:12 Eingegebene Zahl 2 status:  0000 
+11.12.2021 - 17:12 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+11.12.2021 - 17:12 Ausgabe: zweite Zahl status:  0000 
+11.12.2021 - 17:12 Code Zahl 3 gelesen: 7 0000 
+11.12.2021 - 17:12 Eingegebene Zahl 3 status:  0000 
+11.12.2021 - 17:12 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+11.12.2021 - 17:12 Ausgabe: dritte Zahl status:  0000 
+11.12.2021 - 17:12 Code Zahl 4 gelesen: 0 0000 
+11.12.2021 - 17:12 Eingegebene Zahl 4 status:  0000 
+11.12.2021 - 17:12 Funktion: answer var: zahl status: 4 var: textpart status:  0000 
+11.12.2021 - 17:12 Ausgabe:  Zahl status:  0000 
+11.12.2021 - 17:12 Counter = 1 0000 
+11.12.2021 - 17:13 Zahl 1 ist 1 0000 
+11.12.2021 - 17:13 Zahl 2 ist 2 0000 
+11.12.2021 - 17:13 Zahl 3 ist 3 0000 
+11.12.2021 - 17:13 Zahl 4 ist 4 0000 
+11.12.2021 - 17:13 Code Zahl 1 gelesen: 1 0000 
+11.12.2021 - 17:13 Check1 true 0000 
+11.12.2021 - 17:13 Eingegebene Zahl 1 status: 1 0000 
+11.12.2021 - 17:13 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+11.12.2021 - 17:13 Ausgabe: erste Zahl status: 1 0000 
+11.12.2021 - 17:13 Code Zahl 2 gelesen: 8 0000 
+11.12.2021 - 17:13 Eingegebene Zahl 2 status:  0000 
+11.12.2021 - 17:13 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+11.12.2021 - 17:13 Ausgabe: zweite Zahl status:  0000 
+11.12.2021 - 17:13 Code Zahl 3 gelesen: 7 0000 
+11.12.2021 - 17:13 Eingegebene Zahl 3 status:  0000 
+11.12.2021 - 17:13 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+11.12.2021 - 17:13 Ausgabe: dritte Zahl status:  0000 
+11.12.2021 - 17:13 Code Zahl 4 gelesen: 0 0000 
+11.12.2021 - 17:13 Eingegebene Zahl 4 status:  0000 
+11.12.2021 - 17:13 Funktion: answer var: zahl status: 4 var: textpart status:  0000 
+11.12.2021 - 17:13 Ausgabe:  Zahl status:  0000 
+11.12.2021 - 17:13 Counter = 1 0000 
+11.12.2021 - 17:13 Zahl 1 ist 1 0000 
+11.12.2021 - 17:13 Zahl 2 ist 8 0000 
+11.12.2021 - 17:13 Zahl 3 ist 7 0000 
+11.12.2021 - 17:13 Zahl 4 ist 4 0000 
+11.12.2021 - 17:13 Code Zahl 1 gelesen: 1 0000 
+11.12.2021 - 17:13 Check1 true 0000 
+11.12.2021 - 17:13 Eingegebene Zahl 1 status: 1 0000 
+11.12.2021 - 17:13 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+11.12.2021 - 17:13 Ausgabe: erste Zahl status: 1 0000 
+11.12.2021 - 17:13 Code Zahl 2 gelesen: 8 0000 
+11.12.2021 - 17:13 Eingegebene Zahl 2 status: 1 0000 
+11.12.2021 - 17:13 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+11.12.2021 - 17:13 Ausgabe: zweite Zahl status: 1 0000 
+11.12.2021 - 17:13 Code Zahl 3 gelesen: 7 0000 
+11.12.2021 - 17:13 Eingegebene Zahl 3 status: 1 0000 
+11.12.2021 - 17:13 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+11.12.2021 - 17:13 Ausgabe: dritte Zahl status: 1 0000 
+11.12.2021 - 17:13 Code Zahl 4 gelesen: 0 0000 
+11.12.2021 - 17:13 Eingegebene Zahl 4 status:  0000 
+11.12.2021 - 17:13 Funktion: answer var: zahl status: 4 var: textpart status:  0000 
+11.12.2021 - 17:13 Ausgabe:  Zahl status:  0000 
+11.12.2021 - 17:13 Counter = 1 0000 
+11.12.2021 - 17:13 Zahl 1 ist 1 0000 
+11.12.2021 - 17:13 Zahl 2 ist 8 0000 
+11.12.2021 - 17:13 Zahl 3 ist 7 0000 
+11.12.2021 - 17:13 Zahl 4 ist 4 0000 
+11.12.2021 - 17:13 Code Zahl 1 gelesen: 1 0000 
+11.12.2021 - 17:13 Check1 true 0000 
+11.12.2021 - 17:13 Eingegebene Zahl 1 status: 1 0000 
+11.12.2021 - 17:13 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+11.12.2021 - 17:13 Ausgabe: erste Zahl status: 1 0000 
+11.12.2021 - 17:13 Code Zahl 2 gelesen: 8 0000 
+11.12.2021 - 17:13 Eingegebene Zahl 2 status: 1 0000 
+11.12.2021 - 17:13 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+11.12.2021 - 17:13 Ausgabe: zweite Zahl status: 1 0000 
+11.12.2021 - 17:13 Code Zahl 3 gelesen: 7 0000 
+11.12.2021 - 17:13 Eingegebene Zahl 3 status: 1 0000 
+11.12.2021 - 17:13 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+11.12.2021 - 17:13 Ausgabe: dritte Zahl status: 1 0000 
+11.12.2021 - 17:13 Code Zahl 4 gelesen: 0 0000 
+11.12.2021 - 17:13 Eingegebene Zahl 4 status:  0000 
+11.12.2021 - 17:13 Funktion: answer var: zahl status: 4 var: textpart status: vierte 0000 
+11.12.2021 - 17:13 Ausgabe: vierte Zahl status:  0000 
+11.12.2021 - 17:13 Counter = 1 0000 
