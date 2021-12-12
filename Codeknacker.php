@@ -56,11 +56,11 @@
             if(!checkstates($status1, $status2, $status3)) {
               $counter = counterplus($counter + 1);
               logs("Counter = $counter");
-              echo "<br>Das ist der $counter. Rateversuch!";
+              echo "<br><br>Das ist der $counter. Rateversuch!";
             }
             if(checkstates($status1, $status2, $status3)) {
               $counter = counterplus(0);
-              echo "<br>Sie haben den Code geknackt!";
+              echo "<br><br>Sie haben den Code geknackt!";
               echo "<br>Sie haben $counter Versuche gebraucht!";
             }
           }
