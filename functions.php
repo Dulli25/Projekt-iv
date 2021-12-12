@@ -149,5 +149,5 @@
       trim($zeile, " \n");
       intval($zeile);
       return $zeile;
-    }
+      }
 ?>
