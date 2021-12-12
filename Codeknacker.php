@@ -5,6 +5,9 @@
   <meta name="generator" content="PSPad editor, www.pspad.com">
   <title></title>
   <?php
+        global $status1;
+        global $status2;
+        global $status3;
         $status1 = False;
         $status2 = False;
         $status3 = False; 
@@ -16,7 +19,7 @@
   ?>
   </head>
   <body>
-  <h1>Codeknacker: Bitte geben sie 3 Zahlen ein:</h1>
+  <h1>Codeknacker: Bitte geben sie 4 Zahlen ein:</h1>
   <form action="Codeknacker.php" method="post">
         Zahl 1: <input name="zahl1"><br>
         Zahl 2: <input name="zahl2"><br>

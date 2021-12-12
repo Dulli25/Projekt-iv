@@ -20,6 +20,7 @@
             logs("Check1 true");
             $out = true;
             $status1 = True;
+            logs("Status 1 = $status1");
             }
         else {
           $status1 = False;
@@ -40,6 +41,7 @@
         if($line == $input) {
             $out = true;
             $status2 = True;
+            logs("Status 2 = $status2");
             }
         else {
           $status2 = False;
@@ -61,6 +63,7 @@
         if($line == $input) {
             $out = true;
             $status3 = True;
+            logs("Status3 = $status3");
             }
         else {
           $status3 = False;
