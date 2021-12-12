@@ -12,6 +12,7 @@
         $Zahl1 = NULL;
         $Zahl2 = NULL;
         $Zahl3 = NULL;
+        global $counter;
   ?>
   </head>
   <body>

@@ -71,7 +71,7 @@
     
     function checkCode($input, $val) {  //üverprüfen einer beliebigen Zahl
       $file = fopen("Code.txt", "r");
-      for($i=0; $i<=$val; $i++) {
+      for($i=1; $i<=$val; $i++) {
         $line = fgets($file);
       }
       $out = false;
