@@ -23,7 +23,7 @@
         Zahl 3: <input name ="zahl3"><br>
         Zahl 4: <input name="zahl4"><br>
         <input type="submit" name="done">
-        <input type="reset"><br>
+        <input type="reset" name="rst"><br>
   </form>
   <h3>Ergebnis:</h3>
   <?php
@@ -37,7 +37,16 @@
         $Zahl4 = $_POST['zahl4'] ?? null;
         logs("Zahl 4 ist $Zahl4");
         $done = $_POST['done'];
-
+        $rst = $_POST['rst'];
+        /*if($rst) {
+          $status1 = False;
+          $status2 = False;
+          $status3 = False; 
+          $fehler = False;
+          $Zahl1 = NULL;
+          $Zahl2 = NULL;
+          $Zahl3 = NULL;
+        }*/
         if($done && $Zahl1 != NULL || $Zahl2 != NULL || $Zahl3 != NULL || $Zahl4 != NULL) {
           $fehler = False;
           if(fehlercheck($Zahl1, 1)) {
