@@ -81,6 +81,10 @@
               echo "<br><br>Sie haben den Code geknackt!";
               echo "<br>Sie haben $counter Versuche gebraucht!";
               $_SESSION['counter'] = 0;
+              ?>
+              <br><br><iframe src="https://giphy.com/embed/3o7abKhOpu0NwenH3O" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+              <?php
+
             }
           }
 
