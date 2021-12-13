@@ -91,5 +91,6 @@
         }
 
   ?>
+  <a href="Codechange.php">Code ändern(pin erforderlich)</a>
   </body>
 </html>
