@@ -8,6 +8,7 @@
         global $status1;
         global $status2;
         global $status3;
+        global $fehler;
         $status1 = False;
         $status2 = False;
         $status3 = False; 
@@ -41,6 +42,9 @@
         logs("Zahl 4 ist $Zahl4");
         $done = $_POST['done'];
         $rst = $_POST['rst'] ?? null;
+        session_start();
+        $_SESSION['counter'] = $counter;
+
         if($rst) {
           $status1 = False;
           $status2 = False;
@@ -52,28 +56,31 @@
         }
         if($done && $Zahl1 != NULL || $Zahl2 != NULL || $Zahl3 != NULL || $Zahl4 != NULL) {
           $fehler = False;
-          if(fehlercheck($Zahl1, 1)) {
-            answer(check1($Zahl1), 1);
+          if(fehlercheck($Zahl1, 1, $fehler)) {
+            answer(check1($Zahl1, $status1), 1);
           }
-          if(fehlercheck($Zahl2, 2)) {
-            answer(check2($Zahl2), 2);
+          if(fehlercheck($Zahl2, 2, $fehler)) {
+            answer(check2($Zahl2, $status2), 2);
           }
-          if(fehlercheck($Zahl3, 3)) {
-            answer(check3($Zahl3), 3);
+          if(fehlercheck($Zahl3, 3, $fehler)) {
+            answer(check3($Zahl3, $status3), 3);
           }
-          if(fehlercheck($Zahl4, 4)) {
+          if(fehlercheck($Zahl4, 4, $fehler)) {
             answer(checkCode($Zahl4, 4), 4);
           }
           if(!$fehler) {
-            if(!checkstates($status1, $status2, $status3)) {
-              $counter = counterplus($counter + 1);
+            logs("Die Eingabe ist fehlerfrei!");
+            if(checkstates($status1, $status2, $status3) == false) {
+              $_SESSION['counter'] = $counter + 1;
+              $counter = $_SESSION['counter'];
               logs("Counter = $counter");
               echo "<br><br>Das ist der $counter. Rateversuch!";
             }
             if(checkstates($status1, $status2, $status3)) {
-              $counter = counterplus(0);
+              
               echo "<br><br>Sie haben den Code geknackt!";
               echo "<br>Sie haben $counter Versuche gebraucht!";
+              $_SESSION['counter'] = 0;
             }
           }
 

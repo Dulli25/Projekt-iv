@@ -8,7 +8,7 @@
       fclose($file);
       }
 
-    function check1($input) { //�berpr�fen der ersten Zahl
+    function check1($input, &$status1) { //�berpr�fen der ersten Zahl
         $file = fopen("Code.txt", "r");
         $line = fgets($file);
         $out = false;
@@ -29,7 +29,7 @@
         return $out;
         }
 
-    function check2($input) { //�berprufen der zweiten Zahl
+    function check2($input, &$status2) { //�berprufen der zweiten Zahl
         $file = fopen("Code.txt", "r");
         $line = fgets($file);
         $line = fgets($file);
@@ -50,7 +50,7 @@
         return $out;
         }
 
-    function check3($input) { //�berprufen der dritten Zahl
+    function check3($input, &$status3) { //�berprufen der dritten Zahl
         $file = fopen("Code.txt", "r");
         $line = fgets($file);
         $line = fgets($file);
@@ -119,7 +119,7 @@
             }
         }
 
-    function fehlercheck($value, $zahl) { //überprüft die eingabe auf fehler
+    function fehlercheck($value, $zahl, &$fehler) { //überprüft die eingabe auf fehler
       if(!is_numeric($value) && $value != NULL) {
         echo "<br>Bitte geben sie in der $zahl. Zeile eine Zahl ein!";
         $fehler = True;
@@ -137,10 +137,12 @@
 
     function checkstates($s1, $s2, $s3) {  //überprüfen der einzelnen statuse der zahlen und zusammenfassung
       $out = False;
-      if($s1 == True && $s2 == True && $s3 == True) {
-        $out = True;
+      if($s1 == 1 && $s2 == 1 && $s3 == 1) {
+        $out = true;
+        logs("Alle states true");
+        return true;
       }
-      return $out;
+      return false;
       }
     
     function counterplus($counter) {  //counter funktion
