@@ -43,7 +43,12 @@
         $done = $_POST['done'] ?? null;
         $rst = $_POST['rst'] ?? null;
         session_start();
-        $_SESSION['counter'] = $counter;
+        if($_SESSION['visit'] == false ?? null) {
+          $_SESSION['counter'] = 0;
+        }
+        $_SESSION['visit'] = true;
+        
+        
 
         if($rst) {
           $status1 = False;
@@ -71,7 +76,7 @@
           if(!$fehler) {
             logs("Die Eingabe ist fehlerfrei!");
             if(checkstates($status1, $status2, $status3) == false) {
-              $_SESSION['counter'] = $counter + 1;
+              $_SESSION['counter']++;
               $counter = $_SESSION['counter'];
               logs("Counter = $counter");
               echo "<br><br>Das ist der $counter. Rateversuch!";
