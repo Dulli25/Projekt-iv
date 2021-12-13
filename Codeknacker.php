@@ -40,7 +40,7 @@
         logs("Zahl 3 ist $Zahl3");
         $Zahl4 = $_POST['zahl4'] ?? null;
         logs("Zahl 4 ist $Zahl4");
-        $done = $_POST['done'];
+        $done = $_POST['done'] ?? null;
         $rst = $_POST['rst'] ?? null;
         session_start();
         $_SESSION['counter'] = $counter;
@@ -91,6 +91,5 @@
         }
 
   ?>
-  <a href="Codechange.php">Code ändern(pin erforderlich)</a>
   </body>
 </html>
