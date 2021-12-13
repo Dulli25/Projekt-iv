@@ -2270,3 +2270,54 @@
 13.12.2021 - 07:56 Die Eingabe ist fehlerfrei! 0000 
 13.12.2021 - 07:56 Alle states true 0000 
 13.12.2021 - 07:56 Alle states true 0000 
+13.12.2021 - 07:57 Zahl 1 ist 1 0000 
+13.12.2021 - 07:57 Zahl 2 ist 2 0000 
+13.12.2021 - 07:57 Zahl 3 ist 3 0000 
+13.12.2021 - 07:57 Zahl 4 ist 4 0000 
+13.12.2021 - 07:57 Code Zahl 1 gelesen: 1 0000 
+13.12.2021 - 07:57 Check1 true 0000 
+13.12.2021 - 07:57 Status 1 = 1 0000 
+13.12.2021 - 07:57 Eingegebene Zahl 1 status: 1 0000 
+13.12.2021 - 07:57 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+13.12.2021 - 07:57 Ausgabe: erste Zahl status: 1 0000 
+13.12.2021 - 07:57 Code Zahl 2 gelesen: 8 0000 
+13.12.2021 - 07:57 Eingegebene Zahl 2 status:  0000 
+13.12.2021 - 07:57 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+13.12.2021 - 07:57 Ausgabe: zweite Zahl status:  0000 
+13.12.2021 - 07:57 Code Zahl 3 gelesen: 7 0000 
+13.12.2021 - 07:57 Eingegebene Zahl 3 status:  0000 
+13.12.2021 - 07:57 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+13.12.2021 - 07:57 Ausgabe: dritte Zahl status:  0000 
+13.12.2021 - 07:57 Code Zahl 4 gelesen: 4 0000 
+13.12.2021 - 07:57 Eingegebene Zahl 4 status: 1 0000 
+13.12.2021 - 07:57 Funktion: answer var: zahl status: 4 var: textpart status: vierte 0000 
+13.12.2021 - 07:57 Ausgabe: vierte Zahl status: 1 0000 
+13.12.2021 - 07:57 Die Eingabe ist fehlerfrei! 0000 
+13.12.2021 - 07:57 Counter = 1 0000 
+13.12.2021 - 07:57 Zahl 1 ist 1 0000 
+13.12.2021 - 07:57 Zahl 2 ist 8 0000 
+13.12.2021 - 07:57 Zahl 3 ist 7 0000 
+13.12.2021 - 07:57 Zahl 4 ist 4 0000 
+13.12.2021 - 07:57 Code Zahl 1 gelesen: 1 0000 
+13.12.2021 - 07:57 Check1 true 0000 
+13.12.2021 - 07:57 Status 1 = 1 0000 
+13.12.2021 - 07:57 Eingegebene Zahl 1 status: 1 0000 
+13.12.2021 - 07:57 Funktion: answer var: zahl status: 1 var: textpart status: erste 0000 
+13.12.2021 - 07:57 Ausgabe: erste Zahl status: 1 0000 
+13.12.2021 - 07:57 Code Zahl 2 gelesen: 8 0000 
+13.12.2021 - 07:57 Status 2 = 1 0000 
+13.12.2021 - 07:57 Eingegebene Zahl 2 status: 1 0000 
+13.12.2021 - 07:57 Funktion: answer var: zahl status: 2 var: textpart status: zweite 0000 
+13.12.2021 - 07:57 Ausgabe: zweite Zahl status: 1 0000 
+13.12.2021 - 07:57 Code Zahl 3 gelesen: 7 0000 
+13.12.2021 - 07:57 Status3 = 1 0000 
+13.12.2021 - 07:57 Eingegebene Zahl 3 status: 1 0000 
+13.12.2021 - 07:57 Funktion: answer var: zahl status: 3 var: textpart status: dritte 0000 
+13.12.2021 - 07:57 Ausgabe: dritte Zahl status: 1 0000 
+13.12.2021 - 07:57 Code Zahl 4 gelesen: 4 0000 
+13.12.2021 - 07:57 Eingegebene Zahl 4 status: 1 0000 
+13.12.2021 - 07:57 Funktion: answer var: zahl status: 4 var: textpart status: vierte 0000 
+13.12.2021 - 07:57 Ausgabe: vierte Zahl status: 1 0000 
+13.12.2021 - 07:57 Die Eingabe ist fehlerfrei! 0000 
+13.12.2021 - 07:57 Alle states true 0000 
+13.12.2021 - 07:57 Alle states true 0000 
