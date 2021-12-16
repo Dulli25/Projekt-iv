@@ -50,15 +50,7 @@
         
         
 
-        if($rst) {
-          $status1 = False;
-          $status2 = False;
-          $status3 = False; 
-          $fehler = False;
-          $Zahl1 = NULL;
-          $Zahl2 = NULL;
-          $Zahl3 = NULL;
-        }
+        
         if($done && $Zahl1 != NULL || $Zahl2 != NULL || $Zahl3 != NULL || $Zahl4 != NULL) {
           $fehler = False;
           if(fehlercheck($Zahl1, 1, $fehler)) {

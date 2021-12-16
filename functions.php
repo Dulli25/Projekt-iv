@@ -88,7 +88,7 @@
       return $out;
       }
 
-    function answer($check, $zahl) { //ausgabe der antwort auf die abfrage der Zahl
+    function answer($check, $zahl) { //ausgabe der antwort in textform auf die abfrage der Zahl
         switch($zahl) {
             case 1: {
                 $textpart = "erste";
